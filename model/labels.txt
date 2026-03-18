@@ -1,4 +1,0 @@
-0 Hand Open
-1 Thumbs Up
-2 Thumbs Down
-3 Fist
